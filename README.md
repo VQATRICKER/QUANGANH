@@ -73,7 +73,7 @@ How to use:
 - Using vps with high speed will be stronger
 
 git clone https://github.com/VQATRICKER/QUANGANH/
-cd ZxCDDos/
+cd QUANGANH/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
